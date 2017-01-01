@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "noImplicitAny": true,
+        "sourceMap": false
+    },
+    "include": [
+      "src/*.ts"
+    ]
+}

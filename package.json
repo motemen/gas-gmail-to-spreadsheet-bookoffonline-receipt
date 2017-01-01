@@ -1,0 +1,17 @@
+{
+  "name": "gas-gmail-to-spreadsheet-bookoffonline-receipt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "tsc && gapps push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/google-apps-script": "0.0.10",
+    "node-google-apps-script": "^1.1.5",
+    "typescript": "^2.1.4"
+  }
+}
